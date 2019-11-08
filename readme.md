@@ -2,7 +2,7 @@
 
 ## Laravel Blog
 
-This project is blog Restful API that contains an authentification system using Laravel Passport:
+This project is a blog Restful API that contains an authentification system using Laravel Passport:
 
 - Sign up
 - Sign in
